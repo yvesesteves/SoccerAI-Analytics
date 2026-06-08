@@ -1,0 +1,20 @@
+# Ignorar pastas de ambiente virtual
+venv/
+env/
+__pycache__/
+
+# Ignorar vídeos e imagens pesadas
+*.mp4
+*.avi
+*.jpg
+*.png
+!assets/
+
+# Ignorar pastas de output e cache do YOLO
+runs/
+output_videos/
+input_videos/
+
+# Ignorar arquivos de rastreamento pesados
+stubs/
+*.pkl
