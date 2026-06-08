@@ -43,7 +43,10 @@ A velocidade escalar é então derivada pela razão do deslocamento pelo interva
  ┣ 📜 speed_and_distance_estimator.py # Cálculos cinemáticos
  ┗ 📜 utils/                      # Funções auxiliares (I/O de vídeo e BBox matemáticas)
 ```
---- 
+---
+## 🎥 Demonstração do Projeto em Funcionamento
+<img width="1920" height="1080" alt="resultado-video" src="https://github.com/user-attachments/assets/030bf33f-45e9-457e-8e8f-e34c3584ca4a" />
+
 
 
 
